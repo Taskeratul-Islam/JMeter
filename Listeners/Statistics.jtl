@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592935368242,817,google,429,Too Many Requests,Thread Group 1-1,text,false,,3801,326,1,1,http://www.google.com/sorry/index?continue=http://google.com/&q=EgRnkjZqGMeHyfcFIhkA8aeDSyLQDDefr4hmIsWrJobuZgoyK_pVMgFy,682,0,45
+1592935368242,682,google-0,302,Found,Thread Group 1-1,text,true,,735,112,1,1,http://google.com/,682,0,45
+1592935368926,133,google-1,429,Too Many Requests,Thread Group 1-1,text,false,,3066,214,1,1,http://www.google.com/sorry/index?continue=http://google.com/&q=EgRnkjZqGMeHyfcFIhkA8aeDSyLQDDefr4hmIsWrJobuZgoyK_pVMgFy,133,0,66
+1592935369073,4033,Yahoo,200,OK,Thread Group 1-1,text,true,,67679,337,1,1,https://www.yahoo.com/,977,0,377
+1592935369073,977,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,977,0,377
+1592935370067,1730,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,1730,0,1260
+1592935371798,1308,Yahoo-2,200,OK,Thread Group 1-1,text,true,,66857,115,1,1,https://www.yahoo.com/,1023,0,254

@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592924002632,958,Google,429,Too Many Requests,Thread Group2 2-1,text,false,,3801,326,1,2,http://www.google.com/sorry/index?continue=http://google.com/&q=EgRnkjZqGOGuyPcFIhkA8aeDS4BGV7hRHIjLll4lVc3EB210YcfJMgFy,487,0,34
+1592924002632,487,Google-0,302,Found,Thread Group2 2-1,text,true,,735,112,1,2,http://google.com/,487,0,34
+1592924003121,469,Google-1,429,Too Many Requests,Thread Group2 2-1,text,false,,3066,214,1,2,http://www.google.com/sorry/index?continue=http://google.com/&q=EgRnkjZqGOGuyPcFIhkA8aeDS4BGV7hRHIjLll4lVc3EB210YcfJMgFy,469,0,259
